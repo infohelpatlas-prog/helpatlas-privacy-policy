@@ -34,5 +34,5 @@ We may update this policy as the app evolves. The "Last updated" date above refl
 
 ## 8) Contact
 
-For privacy questions, contact the developer using the support email listed on the Google Play Store page.
+For privacy questions, contact the developer at infohelpatlas@gmail.com.
 
